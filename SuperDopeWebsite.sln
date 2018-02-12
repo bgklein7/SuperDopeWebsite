@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SuperDopeWebsite", "SuperDopeWebsite\", "{F4643BB1-8779-489A-AA0D-75784D1FE445}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_56477"
+		Debug.AspNetCompiler.PhysicalPath = "SuperDopeWebsite\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56477\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_56477"
+		Release.AspNetCompiler.PhysicalPath = "SuperDopeWebsite\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56477\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "56477"
+		SlnRelativePath = "SuperDopeWebsite\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4643BB1-8779-489A-AA0D-75784D1FE445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4643BB1-8779-489A-AA0D-75784D1FE445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B87D5B5-8D1B-4B16-B82D-E1B859E16783}
+	EndGlobalSection
+EndGlobal
